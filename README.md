@@ -1,5 +1,5 @@
 
-<h1>Active-Directory-Practical-Scenarios</h1>
+<h1>Active Directory Real-World Scenarios</h1>
 This tutorial provides a few examples of on-the-job scenarios you might encounter when using Active Directory.
 
 
