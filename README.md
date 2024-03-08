@@ -5,7 +5,7 @@ This tutorial provides a few examples of on-the-job scenarios you might encounte
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: On-the-job Active Directory Scenarios](https://www.youtube.com) **COMING SOON**
+- ### [YouTube: On-the-job Active Directory Scenarios](https://www.youtube.com) * **COMING SOON** *(
 
 <h2>Environments and Technologies Used</h2>
 
